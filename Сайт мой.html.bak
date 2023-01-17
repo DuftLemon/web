@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html>
+	
+	<head>
+		<meta charset="utf-8">
+		<title>Лев Власюк</title>
+		
+	</head>
+	<body background="background.png">
+	<center>
+	<h1>Всем привет! Меня <i>ЛЕвка</i>, зовите просто <b>ЛЕВ</b></h1>		
+	<table border="1">
+	<tr>
+		<th>
+	<!-- 
+		Мое фото, главное
+	-->
+		<a target="_blank"
+		href="https://vk.com/levandos0505">
+		<img src="Leva.png">
+		</a>
+		</th>
+		<th>Это мой друг Женя, справа, а слива я.<br> Мы любим вместе гулять.<br>Дружим мы уже 13 лет.</th>
+	</tr>
+	</table>
+	<h2>Моя жызн</h2>
+	<p bgcolor="green">Я люблю катася на матасикле, <br> это крута!</p>
+	</center>
+
+	</body>
+</html>
